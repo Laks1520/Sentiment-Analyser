@@ -1,0 +1,13 @@
+# Data files (too large for GitHub)
+data/IMDB Dataset.csv
+data/X.npy
+data/y.npy
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+venv/
