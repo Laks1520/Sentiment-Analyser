@@ -10,4 +10,4 @@ __pycache__/
 
 # Environment
 .env
-venv/
+venv/data/cleaned_imdb.csv
