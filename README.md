@@ -2,7 +2,7 @@
 
 A machine learning project that classifies movie reviews as **Positive** or **Negative** using NLP techniques.
 
-Built as part of preparation for **Amazon ML Summer School 2026**.
+
 
 ---
 
