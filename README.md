@@ -1,5 +1,7 @@
 # 🎬 Sentiment Analyser
 
+🌐 **Live Demo:** [Click here](https://sentiment-analyser-f8be.onrender.com/)
+
 A machine learning project that classifies movie reviews as **Positive** or **Negative** using NLP techniques.
 
 
